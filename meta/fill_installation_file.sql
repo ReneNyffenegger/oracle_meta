@@ -1,0 +1,4 @@
+set termout off
+@fill_installation_file_for_dir_id rdbms_admin
+@fill_installation_file_for_dir_id sqlplus_admin
+set termout on
