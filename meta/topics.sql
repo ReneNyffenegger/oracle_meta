@@ -5,7 +5,10 @@ prompt .  topic: dynamic_performance_views
 @dynamic_performance_views
 
 prompt .  topic: static_data_dictionary_view
-@static_data_dictionary_view
+@static_data_dictionary_views
+
+prompt .  topic: Initiaization parameters
+@initialization_parameters
 
 prompt .  topic: installation_directory
 @installation_directory
