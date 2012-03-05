@@ -13,6 +13,9 @@ prompt .  topic: Supplied PL/SQL Packages and Types
 prompt .  topic: Object types
 @object_types
 
+prompt .  topic: Privileges
+@privileges
+
 prompt .  topic: Initiaization parameters
 @initialization_parameters
 
