@@ -16,5 +16,8 @@ prompt .  topic: Object types
 prompt .  topic: Initiaization parameters
 @initialization_parameters
 
+prompt .  topic: Execution plan operations / options
+@execution_plan
+
 prompt .  topic: installation_directory
 @installation_directory
