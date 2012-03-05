@@ -19,5 +19,8 @@ prompt .  topic: Initiaization parameters
 prompt .  topic: Execution plan operations / options
 @execution_plan
 
+prompt .  topic: Error messages
+@error_messages
+
 prompt .  topic: installation_directory
 @installation_directory
