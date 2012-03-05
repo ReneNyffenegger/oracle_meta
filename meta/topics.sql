@@ -1,10 +1,10 @@
-prompt .  topic: hints
-@hints
+prompt .  topic: Predefined User Accounts and Roles
+@predefined_user_accounts_and_roles
 
-prompt .  topic: dynamic_performance_views
+prompt .  topic: Dynamic performance views
 @dynamic_performance_views
 
-prompt .  topic: static_data_dictionary_view
+prompt .  topic: Static data dictionary views
 @static_data_dictionary_views
 
 prompt .  topic: Supplied PL/SQL Packages and Types
@@ -28,5 +28,8 @@ prompt .  topic: Wait events
 prompt .  topic: Statistics
 @statistics
 
-prompt .  topic: installation_directory
+prompt .  topic: Hints
+@hints
+
+prompt .  topic: Installation directory
 @installation_directory
