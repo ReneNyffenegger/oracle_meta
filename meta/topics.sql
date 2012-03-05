@@ -25,5 +25,8 @@ prompt .  topic: Error messages
 prompt .  topic: Wait events
 @wait_events
 
+prompt .  topic: Statistics
+@statistics
+
 prompt .  topic: installation_directory
 @installation_directory
