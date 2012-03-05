@@ -22,5 +22,8 @@ prompt .  topic: Execution plan operations / options
 prompt .  topic: Error messages
 @error_messages
 
+prompt .  topic: Wait events
+@wait_events
+
 prompt .  topic: installation_directory
 @installation_directory
