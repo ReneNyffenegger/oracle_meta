@@ -1,3 +1,7 @@
+--
+--  Compare with v$sql_hint.
+--
+
 insert into hint values ('all_rows'                  , 0, 1, 0);
 insert into hint values ('append'                    , 0, 1, 0);
 insert into hint values ('append_values'             , 0, 1, 0);
